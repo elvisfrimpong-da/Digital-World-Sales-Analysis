@@ -34,24 +34,17 @@ The objective of this project is to analyze sales performance across product cat
 - Racing Bikes and Mountain Bikes were strong revenue contributors  
 - A small number of suppliers accounted for a large share of total gross sales  
 - Certain individual products significantly outperformed others in revenue  
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/95046e9b-07d3-4815-9bd3-288e92e7781b" />
 
 ---
 
-## Repository Structure
-```text
-digital-world-sales-analysis/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── sql/
-│   └── sales_analysis.sql
-│
-├── powerbi/
-│   └── digital_world_sales.pbix
-│
-├── images/
-│   └── dashboard_snapshot.png
-│
-└── README.md
+
+
+
+
+
+## Author
+**Elvis Frimpong**  
+Data Analyst | Agricultural Engineer  
+[LinkedIn](https://www.linkedin.com/in/elvisfrimpong) **|** [Portfolio](https://elvisweb.netlify.app/)
+
